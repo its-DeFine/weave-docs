@@ -1,8 +1,8 @@
 # WEAVE Month 1 Overview
 
-Month 1 is being simplified into the strongest version that can be delivered with the incentives currently available. The goal is to get to a real working application path quickly, using the agent as the main operator of the lifecycle and using existing Livepeer workloads as the substrate.
+Month 1 is the runtime-first version of WEAVE. The goal is to get to a real working application path quickly, using the agent as the main operator of the lifecycle and using existing Livepeer workloads as the substrate.
 
-This is the low-hanging-fruit path. It keeps operating costs low, lets the application be offered cheaply, and aligns the runtime with orchestrator benefit instead of trying to launch a separate incentive system first.
+This is the low-hanging-fruit path. It keeps operating costs low, lets the application be offered cheaply, and aligns the runtime with orchestrator benefit.
 
 The current delivery target is **Friday 2026-05-01**. If needed, the delivery window can slip by one additional week to **Friday 2026-05-08**.
 
@@ -35,10 +35,6 @@ Month 1 should deliver:
 - authentic outreach run by the agent
 - a real payment path inside the runtime
 
-The runtime is also the current incentive structure. Earlier Month 1 thinking separated the tool, the hosted surface, and a standalone incentive-program launch. The current version repurposes those incentive accruals to power the agent and the runtime itself.
-
-This is a materially different model from the earlier one. Before, the idea was to incentivize users to create workflows that might later become applications. Now, WEAVE uses existing Livepeer workloads to create applications directly.
-
 ### M1-D3. Public KPI reporting
 
 Month 1 should also produce public reporting on what the runtime is actually doing.
@@ -53,13 +49,16 @@ That reporting should cover:
 
 ## Why this version of Month 1 is better
 
-This version is better because it concentrates the available incentives into a real runtime instead of splitting attention across a heavier structure.
+This version is better because it concentrates effort into a real runtime instead of splitting attention across a heavier structure.
 
 It gives WEAVE:
 - a faster path to a working application
 - a lower operating cost because the agent can act as a lean operating team
 - a direct path from application usage to orchestrator benefit
 - a public story that is easier to understand and easier to verify
+
+For the economics model behind that claim, see [Orchestrator Economics](orchestrator-economics.md).
+For the public accountability boundary, see [Program Transparency](program-transparency.md).
 
 ## Governance and timing
 
@@ -70,3 +69,5 @@ Month 2 is intentionally not fixed yet. Month 1 will be reviewed first, and Mont
 ## Related document
 
 - [Application Lifecycle Summary](app-lifecycle.md)
+- [Orchestrator Economics](orchestrator-economics.md)
+- [Program Transparency](program-transparency.md)
