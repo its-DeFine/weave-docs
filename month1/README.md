@@ -33,7 +33,7 @@ Month 1 should deliver:
 - a website or hosted runtime surface
 - at least one initial application that is usable and able to receive users
 - authentic outreach run by the agent
-- a payment or monetization path inside the runtime, where applicable
+- a documented payment or monetization path appropriate to the first application's model
 
 The first use of the incentive packets in Month 1 is to power the WEAVE runtime itself: hosting, agent operation, outreach, infrastructure, and the costs needed to keep the first application running. Broader third-party user incentives should be shaped after the first runtime proof is clearer.
 
