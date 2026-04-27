@@ -10,7 +10,7 @@ The current delivery target is **Friday 2026-05-01**. If needed, the delivery wi
 
 ### M1-D1. The WEAVE tool
 
-The WEAVE tool is the open-source agentic runtime layer. It runs the agents that support the application lifecycle end to end.
+The WEAVE tool is the open-source agentic operating layer for Livepeer applications. It runs agents that take a product through the full lifecycle end to end.
 
 That means it should be able to:
 - study existing Livepeer pipelines and understand what they can do
@@ -26,7 +26,7 @@ In practical terms, Month 1 should leave behind a real open-source tool, not a p
 
 ### M1-D2. The WEAVE runtime
 
-The WEAVE runtime is the hosted deployment of the tool. In Month 1, it is an operated website and infrastructure surface where the WEAVE agents run against one initial application. It is not yet a mature third-party marketplace where external users submit intents and receive incentives.
+The WEAVE runtime is the hosted deployment of the tool. In Month 1, it is an operated website and infrastructure surface where the WEAVE agents operate one initial application, produce evidence, and expose public reporting. It is not yet a mature third-party marketplace where external users submit intents and receive incentives.
 
 Month 1 should deliver:
 - a deployed runtime

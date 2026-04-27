@@ -76,7 +76,7 @@ This includes:
 ## Tool versus runtime
 
 This distinction matters:
-- the WEAVE tool is the open-source agentic runtime layer and runs the agents that support the lifecycle stages
-- the WEAVE runtime is the hosted deployment of that tool, where those agents operate against an initial usable application, agent-operated outreach, analytics, and iteration
+- the WEAVE tool is the open-source agentic operating layer for Livepeer applications and runs the agents that take a product through the lifecycle stages
+- the WEAVE runtime is the hosted deployment of that tool, where those agents operate one initial usable application, produce evidence, and expose public reporting
 
 The tool and the runtime are not two unrelated products. The runtime is the live expression of the tool.
