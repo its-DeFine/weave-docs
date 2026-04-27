@@ -19,9 +19,12 @@ The runtime still has real operating costs, but they are much smaller:
 - agent compute
 - scoped contributor work
 - infrastructure and hosting
+- outreach and distribution
 - reinvestment into the next application
 
 Atumera operates WEAVE as steward and does not extract profit from the runtime.
+
+In Month 1, the first use of incentives is to power the runtime itself: hosting, agent operation, outreach, infrastructure, and the costs needed to keep the first application running.
 
 ## The middleman tax
 
@@ -57,7 +60,7 @@ The structure is better because the runtime is not trying to capture a large com
 ## What the orchestrator gets
 
 The orchestrator should get:
-- real users paying for real applications built on Livepeer workloads
+- applications built on Livepeer workloads that are usable, marketed, measured, and able to receive users
 - more value from the same underlying inference path
 - a runtime that handles much of the product, outreach, and iteration burden
 - clearer public reporting about what the system is doing
@@ -66,7 +69,7 @@ The point is not just to route work to orchestrators. The point is to route more
 
 ## Why this is better for users
 
-Users get access to real applications built on Livepeer workloads without paying for the full overhead of a traditional app company.
+Users get access to applications built on Livepeer workloads without paying for the full overhead of a traditional app company.
 
 That means the runtime can offer:
 - cheaper applications
@@ -83,3 +86,5 @@ That means the public docs should make the model easy to inspect:
 - why the economics are better for orchestrators
 - why the pricing can be better for users
 - what will be reported publicly as the runtime goes live
+
+Month 1 does not depend on a promised usage volume. The economic claim is that the runtime creates a better structure for turning application usage into orchestrator benefit once usage is created through product distribution.

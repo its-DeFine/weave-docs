@@ -11,22 +11,26 @@ Purpose: understand the Livepeer capability surface and the market opportunity s
 This includes:
 - mapping existing pipelines and what they can do
 - assessing quality, uptime, pricing, operators, and operational reliability
-- synthesizing pipelines into reusable primitives
+- synthesizing available capabilities into reusable primitives where useful
 - identifying what applications become possible from those primitives
 - running competitor analysis and pricing analysis once a serious concept exists
 
 Primitive note:
 - a stacked primitive layers multiple pipelines in the same path or modality
 - a coordinated primitive uses multiple pipelines together across different paths or modalities inside the same application behavior
+- one example is a real-time media pipeline combined with an LLM such as Gemma, where the LLM interprets user intent and turns it into prompts or parameters for the media pipeline
+- another example is an LLM router that combines multiple LLM pipelines and sends a request to the most appropriate model based on request type, cost, quality, or availability
+
+Synthesis of two or more pipelines is part of the broader WEAVE direction, but it is not necessarily a Month 1 completion requirement. Month 1 focuses on proving the runtime and first application path from available capability.
 
 ## Stage 2. Engineering and commercial integration
 
-Purpose: compose the chosen pipelines into a working application and wire the payment and orchestrator flow correctly.
+Purpose: compose the chosen capabilities into a working application and wire the runtime, payment, monetization, or orchestrator flow where applicable.
 
 This includes:
 - using the relevant existing pipelines correctly
 - implementing runtime behavior and application assembly
-- implementing user payment flow and orchestrator routing
+- implementing user payment, monetization, or orchestrator routing where applicable
 - connecting the runtime to the hosted or documented product surface as needed
 
 ## Stage 3. QA and readiness
@@ -42,7 +46,7 @@ This includes:
 
 ## Stage 4. Outreach and distribution
 
-Purpose: put the application in front of real consumers through a repeatable workflow.
+Purpose: put the application in front of potential users through a repeatable workflow.
 
 This includes:
 - creating the outreach workflow
@@ -52,7 +56,7 @@ This includes:
 
 ## Stage 5. KPI, feedback, and interpretation
 
-Purpose: read market truth from usage, public KPIs, analytics, and customer responses.
+Purpose: read market truth from initial usage, test usage, public KPIs, analytics, and customer responses.
 
 This includes:
 - tracking public KPIs
@@ -73,6 +77,6 @@ This includes:
 
 This distinction matters:
 - the WEAVE tool is the open-source capability layer and should be able to support all six lifecycle stages
-- the WEAVE runtime is the deployed realization of that same capability layer, where the lifecycle becomes actualized against real users, real applications, real outreach, real analytics, and real iteration
+- the WEAVE runtime is the deployed realization of that same capability layer, where the lifecycle becomes actualized against an initial usable application, agent-operated outreach, analytics, and iteration
 
 The tool and the runtime are not two unrelated products. The runtime is the live expression of the tool.
