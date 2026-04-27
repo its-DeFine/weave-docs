@@ -40,7 +40,7 @@ Purpose: test the built application, identify issues, and determine whether it i
 This includes:
 - functional QA
 - integration QA
-- payment-flow QA
+- monetization-path QA for the selected application model
 - failure-case QA
 - readiness judgment
 
