@@ -25,12 +25,12 @@ Synthesis of two or more pipelines is part of the broader WEAVE direction, but i
 
 ## Stage 2. Engineering and commercial integration
 
-Purpose: compose the chosen capabilities into a working application and wire the runtime, payment, monetization, or orchestrator flow where applicable.
+Purpose: compose the chosen capabilities into a working application and wire the runtime, payment, monetization, or orchestrator flow appropriate to the application's model.
 
 This includes:
 - using the relevant existing pipelines correctly
 - implementing runtime behavior and application assembly
-- implementing user payment, monetization, or orchestrator routing where applicable
+- implementing user payment, monetization, or orchestrator routing appropriate to the application model
 - connecting the runtime to the hosted or documented product surface as needed
 
 ## Stage 3. QA and readiness
